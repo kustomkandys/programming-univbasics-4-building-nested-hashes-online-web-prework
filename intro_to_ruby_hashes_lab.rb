@@ -19,7 +19,8 @@ def monopoly_with_third_tier
         :second_level_ownership => {}, 
         :third_level_ownership => {},
         :fourth_level_ownership => {}
-       }
+       },
+      :names => {}
     }
   }
 end
