@@ -20,7 +20,12 @@ def monopoly_with_third_tier
         :third_level_ownership => {},
         :fourth_level_ownership => {}
        },
-      :names => {}
+      :names => {
+        :first_railroad => {},
+        :second_railroad => {},
+        :third_raildroad => {},
+        :fourth_railroad => {}
+      }
     }
   }
 end
